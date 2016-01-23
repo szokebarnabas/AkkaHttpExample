@@ -2,8 +2,8 @@ My akka-http study project.
 
 Dependencies
 ------------
-- akka-http-experimental_2.11
-- akka-http-spray-json-experimental
+- akka-http-experimental_2.11 v2.0.2
+- akka-http-spray-json-experimental v2.0.2
 
 Runnig
 ------
